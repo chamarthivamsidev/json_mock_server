@@ -1,13 +1,13 @@
 {
   "name": "json_mock_server",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "fake server with fake database",
+  "main": "server.js",
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Vamsi Chamarthi",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0"
