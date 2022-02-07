@@ -71,5 +71,18 @@
       "gender": "Male"
     }
   ],
-  "todos": []
+  "todos": [],
+  "games": [
+    {
+      "gamename": "Vice City",
+      "gameauthor": "vamsi",
+      "gameprice": 850,
+      "gametags": "hello",
+      "forkids": true,
+      "gamedesc": "A good game",
+      "gamerating": "2",
+      "key": "b531940b-b639-4095-ad9b-6bc131e09a23",
+      "id": 1
+    }
+  ]
 }
