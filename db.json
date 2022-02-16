@@ -71,7 +71,43 @@
       "gender": "Male"
     }
   ],
-  "todos": [],
+  "todos": [
+    {
+      "title": "Learn CSS",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "Learning React",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Learning React-Redux",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Lear JavaScript",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Learn CSS",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Learn JAVA",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "Learn Coding",
+      "status": false,
+      "id": 7
+    }
+  ],
   "games": [
     {
       "gamename": "Vice City",
